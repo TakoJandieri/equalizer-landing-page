@@ -1,5 +1,3 @@
-link >>> https://takojandieri.github.io/equalizer-landing-page/
-
 # Equalizer-Landing-Page
 
 This is a solution to the Equalizer-Landing-Page challenge
@@ -12,7 +10,7 @@ This is a solution to the Equalizer-Landing-Page challenge
 
 ### Screenshot
 
-![WebPage Preview](./assets/preview.jpg)
+![WebPage Preview](/preview.jpg)
 
 ### Built with
 
