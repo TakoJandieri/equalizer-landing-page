@@ -12,7 +12,7 @@ This is a solution to the Equalizer-Landing-Page challenge
 
 ### Screenshot
 
-![WebPage Preview](assets/preview.jpg)
+![WebPage Preview](./assets/preview.jpg)
 
 ### Built with
 
